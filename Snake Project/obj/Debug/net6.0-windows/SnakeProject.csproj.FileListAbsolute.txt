@@ -1,0 +1,17 @@
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0-windows\SnakeProject.exe
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0-windows\SnakeProject.deps.json
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0-windows\SnakeProject.runtimeconfig.json
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0-windows\SnakeProject.dll
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\bin\Debug\net6.0-windows\SnakeProject.pdb
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.csproj.AssemblyReference.cache
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.Form1.resources
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.csproj.GenerateResource.cache
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.AssemblyInfoInputs.cache
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.AssemblyInfo.cs
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.dll
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\refint\SnakeProject.dll
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.pdb
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\SnakeProject.genruntimeconfig.cache
+C:\Users\eason.y.huang\source\repos\SnakeProject\SnakeProject\obj\Debug\net6.0-windows\ref\SnakeProject.dll
